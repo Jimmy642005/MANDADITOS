@@ -1,18 +1,5 @@
   body  {
-   font-size: 14px;
-    line-height: 1.4;
+   background-color: aqua;
     }
 
-  h1 {
-    font-size: 2em;
-    text-aling: center;
-  }
 
-  h2 {
-    font-size: none;
-    padding: 0;
-  }
-
-  li {
-    margin-bottom: 10px;
-  }
